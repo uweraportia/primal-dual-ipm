@@ -85,7 +85,7 @@ All figures in `figures/` are generated from the notebook.
 
 ## Full Report
 
-You can view the full report here: [Primal-Dual Interior Point Methods (PDF)](final.pdf)
+You can view the full report here: [Primal-Dual Interior Point Methods (PDF)](https://amr-yasser226.github.io/primal-dual-ipm/final.pdf)
 
 ---
 
